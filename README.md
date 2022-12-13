@@ -31,12 +31,9 @@ Per quanto riguarda L'ACP, come già accennato, le variabili rimangono le stesse
 Com'è possibile notare, quasi il 90% della variabilità spiegata del fenomeno è riassumibile nelle prime due dimensioni, ossia attraverso i primi due assi. i cui contribuiti sono indicati in successione:
 
 CONTRIBUTI ASSOLUTI
-                      Dim.1  Dim.2  Dim.3  Dim.4  Dim.5
-numero.feriti        22.931  0.592  5.847 70.575  0.054
-numero.stranieri     13.029 63.502 23.463  0.005  0.002
-numero_sportelli     15.155 35.785 48.259  0.569  0.233
-reddito.contribuenti 24.617  0.121  9.061 15.397 50.803
-numero_residenti     24.268  0.000 13.370 13.454 48.908
+
+![cotributi assoluti](https://user-images.githubusercontent.com/119412116/207354963-932311c5-3504-43ef-9678-47ad6bbb8c1a.png)
+
 
 Com'è possibile notare, i contributi maggiori alla formazione del primo asse provengono da numero.feriti, reddito.contribuenti e numero_residenti, per quanto riguarda il secondo invece numero stranieri e numero sportelli hanno i valori più alti. i Grafici in successione possono chiarire ulteriormente l'interpretazione di tali dati.
 
@@ -46,12 +43,9 @@ Com'è possibile notare, i contributi maggiori alla formazione del primo asse pr
 ![torte_contrib_assoluti](https://user-images.githubusercontent.com/119412116/207351059-4cdb82d2-c9f4-4f93-94a2-75f5ca66fc4c.png)
 
 CONTRIBUTI RELATIVI
-                     Dim.1 Dim.2 Dim.3 Dim.4 Dim.5
-numero.feriti        0.876 0.004 0.023 0.098 0.000
-numero.stranieri     0.498 0.410 0.092 0.000 0.000
-numero_sportelli     0.579 0.231 0.189 0.001 0.000
-reddito.contribuenti 0.940 0.001 0.036 0.021 0.002
-numero_residenti     0.927 0.000 0.052 0.019 0.002
+
+![contributi relativi](https://user-images.githubusercontent.com/119412116/207355030-2096de57-ba5d-4ca6-909b-756c389f47f3.png)
+
 
 Per quanto riguarda i contributi relativi invece, vediamo come sulla prima dimensione tutte le variabili sono rappresentate bene, mentre per la seconda i valori accettabili riguardano solo numero stranieri e numero sportelli.
 
