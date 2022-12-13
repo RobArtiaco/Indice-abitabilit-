@@ -24,7 +24,7 @@ Importante notare dalle statistiche descrittive della regressione che sia la bon
 
 ACP
 
-Per quanto riguarda L'ACP, come già accennato, le variabili rimangono le stesse. Prima di procedere con l'analisi fattoriale è però interessante visualizzare la spiegabilità del fenomeno secondo le dimensioni individuati attraverso uno screeplot.
+Per quanto riguarda L'ACP, come già accennato, le variabili rimangono le stesse. Prima di procedere con l'analisi fattoriale è però interessante visualizzare la spiegabilità del fenomeno secondo le dimensioni individuate attraverso uno screeplot.
 
 ![Screeplot_variabilità_spiegata](https://user-images.githubusercontent.com/119412116/207347476-34c5611d-4abe-4ace-8197-722a045ed3ed.png)
 
