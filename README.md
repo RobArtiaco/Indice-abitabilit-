@@ -47,7 +47,7 @@ CONTRIBUTI RELATIVI
 ![contributi relativi](https://user-images.githubusercontent.com/119412116/207355030-2096de57-ba5d-4ca6-909b-756c389f47f3.png)
 
 
-Per quanto riguarda i contributi relativi invece, vediamo come sulla prima dimensione tutte le variabili sono ben rappresentate, mentre per la seconda i valori accettabili riguardano solo numero stranieri e numero sportelli.
+Per quanto riguarda i contributi relativi invece, vediamo come sulla prima dimensione tutte le variabili sono ben rappresentate (in particolare feriti, reddito e numero di abitanti), mentre per la seconda i valori accettabili riguardano solo numero stranieri e numero sportelli.
 
 ![torte_contrib_relativi](https://user-images.githubusercontent.com/119412116/207351977-c5c1b069-5ac1-4b1d-b4ea-ae4111d6fb0d.png)
 
