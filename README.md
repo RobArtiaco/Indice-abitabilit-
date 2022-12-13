@@ -18,10 +18,10 @@ Residuals:
 Coefficients:
                   Estimate Std. Error t value Pr(>|t|)    
 (Intercept)      250.49462  180.61265   1.387    0.169    
-numero_residenti   0.48266    0.01188  40.629  < 2e-16 ***
+numero_residenti   0.48266    0.01188  40.629  < 2e-16 
 numero.feriti     -2.88194    5.09000  -0.566    0.573    
 numero.stranieri   0.09529    0.13539   0.704    0.483    
-numero_sportelli 179.22484   35.71812   5.018 2.79e-06 ***
+numero_sportelli 179.22484   35.71812   5.018 2.79e-06 
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
