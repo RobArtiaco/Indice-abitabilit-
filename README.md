@@ -22,3 +22,8 @@ F-statistic:  2409 on 4 and 86 DF,  p-value: < 2.2e-16
 
 Importante notare dalle statistiche descrittive della regressione che sia la bontà sia la significatività del modello sono molto alte (Adjusted R-squared & p-value).
 
+ACP
+
+Per quanto riguarda L'ACP, come già accennato, le variabili rimangono le stesse. Prima di procedere con l'analisi fattoriale è però interessante visualizzare la spiegabilità del fenomeno secondo le dimensioni individuati attraverso uno screeplot
+
+![Screeplot_variabilità_spiegata](https://user-images.githubusercontent.com/119412116/207347476-34c5611d-4abe-4ace-8197-722a045ed3ed.png)
