@@ -50,3 +50,7 @@ CONTRIBUTI RELATIVI
 Per quanto riguarda i contributi relativi invece, vediamo come sulla prima dimensione tutte le variabili sono rappresentate bene, mentre per la seconda i valori accettabili riguardano solo numero stranieri e numero sportelli.
 
 ![torte_contrib_relativi](https://user-images.githubusercontent.com/119412116/207351977-c5c1b069-5ac1-4b1d-b4ea-ae4111d6fb0d.png)
+
+RAPPRESENTAZIONE GRAFICA DEI COMUNI
+
+![ACP_abitabilità](https://user-images.githubusercontent.com/119412116/207355583-cb5b4e1e-7b02-49a7-87b8-1f97c7c6f760.png)
