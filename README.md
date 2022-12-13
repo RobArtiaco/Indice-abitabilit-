@@ -9,7 +9,7 @@ REGRESSIONE MULTIPLA
 
 Com'è possibile notare dai grafici, c'è una forte correlazione lineare positiva tra il reddito dei contribuenti e il numero dei residenti. Indice del fatto che le città più popolate sembrebbero essere anche quelle più ricche e dove, presubilmente, il reddito viene dichiarato con trasparenza.
 
-
+####
 Residuals:
 
     Min      1Q  Median      3Q     Max 
@@ -17,9 +17,10 @@ Residuals:
 
 
 Residual standard error: 1024 on 86 degrees of freedom
+
 Multiple R-squared:  0.9912,	Adjusted R-squared:  0.9907 
+
 F-statistic:  2409 on 4 and 86 DF,  p-value: < 2.2e-16
-
-
+####
 
 Importante notare dalle statistiche descrittive della regressione che sia la bontà sia la significatività del modello sono molto alte (Adjusted R-squared & p-value).
