@@ -5,6 +5,7 @@ Importante sottolineare che il lavoro è un work in progress, gli indici non son
 Entrambe le tecniche sono state sviluppate utilizzando il dataset finale "Abitabilità_comune" in cui sono state estratte la variabili quantitative presenti nei dataset presenti nella repository. 
 
 REGRESSIONE MULTIPLA
+
 ![Regressione_abitabilità](https://user-images.githubusercontent.com/119412116/207337738-d9d72d42-a0e6-4284-b08b-0d00b9e0551b.png)
 
 Com'è possibile notare dai grafici, c'è una forte correlazione lineare positiva tra il reddito dei contribuenti e il numero dei residenti. Indice del fatto che le città più popolate sembrebbero essere anche quelle più ricche e dove, presubilmente, il reddito viene dichiarato con trasparenza.
@@ -20,3 +21,4 @@ F-statistic:  2409 on 4 and 86 DF,  p-value: < 2.2e-16
 ####
 
 Importante notare dalle statistiche descrittive della regressione che sia la bontà sia la significatività del modello sono molto alte (Adjusted R-squared & p-value).
+
