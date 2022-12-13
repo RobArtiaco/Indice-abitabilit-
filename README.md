@@ -24,6 +24,35 @@ Importante notare dalle statistiche descrittive della regressione che sia la bon
 
 ACP
 
-Per quanto riguarda L'ACP, come già accennato, le variabili rimangono le stesse. Prima di procedere con l'analisi fattoriale è però interessante visualizzare la spiegabilità del fenomeno secondo le dimensioni individuati attraverso uno screeplot
+Per quanto riguarda L'ACP, come già accennato, le variabili rimangono le stesse. Prima di procedere con l'analisi fattoriale è però interessante visualizzare la spiegabilità del fenomeno secondo le dimensioni individuati attraverso uno screeplot.
 
 ![Screeplot_variabilità_spiegata](https://user-images.githubusercontent.com/119412116/207347476-34c5611d-4abe-4ace-8197-722a045ed3ed.png)
+
+Com'è possibile notare, quasi il 90% della variabilità spiegata del fenomeno è riassumibile nelle prime due dimensioni, ossia attraverso i primi due assi. i cui contribuiti sono indicati in successione:
+
+CONTRIBUTI ASSOLUTI
+                      Dim.1  Dim.2  Dim.3  Dim.4  Dim.5
+numero.feriti        22.931  0.592  5.847 70.575  0.054
+numero.stranieri     13.029 63.502 23.463  0.005  0.002
+numero_sportelli     15.155 35.785 48.259  0.569  0.233
+reddito.contribuenti 24.617  0.121  9.061 15.397 50.803
+numero_residenti     24.268  0.000 13.370 13.454 48.908
+
+Com'è possibile notare, i contributi maggiori alla formazione del primo asse provengono da numero.feriti, reddito.contribuenti e numero_residenti, per quanto riguarda il secondo invece numero stranieri e numero sportelli hanno i valori più alti. i Grafici in successione possono chiarire ulteriormente l'interpretazione di tali dati.
+
+![Cerchio_correlazioni](https://user-images.githubusercontent.com/119412116/207350945-6cbdc244-1a48-4b7a-979b-35608344cc0d.png)
+
+
+![torte_contrib_assoluti](https://user-images.githubusercontent.com/119412116/207351059-4cdb82d2-c9f4-4f93-94a2-75f5ca66fc4c.png)
+
+CONTRIBUTI RELATIVI
+                     Dim.1 Dim.2 Dim.3 Dim.4 Dim.5
+numero.feriti        0.876 0.004 0.023 0.098 0.000
+numero.stranieri     0.498 0.410 0.092 0.000 0.000
+numero_sportelli     0.579 0.231 0.189 0.001 0.000
+reddito.contribuenti 0.940 0.001 0.036 0.021 0.002
+numero_residenti     0.927 0.000 0.052 0.019 0.002
+
+Per quanto riguarda i contributi relativi invece, vediamo come sulla prima dimensione tutte le variabili sono rappresentate bene, mentre per la seconda i valori accettabili riguardano solo numero stranieri e numero sportelli.
+
+![torte_contrib_relativi](https://user-images.githubusercontent.com/119412116/207351977-c5c1b069-5ac1-4b1d-b4ea-ae4111d6fb0d.png)
